@@ -1,0 +1,9 @@
+development:
+  rt_avs_endpoint: "https://www.bdbdata.co.za/RtAvsExtended_UAT/RtAvsExtended.svc?Wsdl"
+  rt_avs_soap_env: "http://www.w3.org/2003/05/soap-envelope"
+  rt_avs_tem: "http://tempuri.org/"
+  rt_avs_rtav: "http://schemas.datacontract.org/2004/07/RTAVSExtended.Model"
+  rt_avs_password: "HbvJLAe85XLmQgMm4Z67d536tePdshFN"
+  rt_avs_service_key: "6fec05666bfd463d81df2f29a83902db"
+  rt_avs_usercode: "423040"
+  rt_avs_username: "MPOWAAPI"
